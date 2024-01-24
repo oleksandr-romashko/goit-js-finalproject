@@ -4,7 +4,7 @@ Final JS Fundamentals homework
 
 ## Стартові файли
 
-[Завантажуй стартові](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/goitacademy/javascript-homework/tree/main/v2/07/src) файли з базовою розміткою, готовими стилями та підключеними файлами скриптів для кожного завдання. Скопіюй їх собі у проект.
+[Завантажуй стартові](https://github.com/oleksandr-romashko/goit-js-finalproject/files/14043540/javascript-homework_tree_main_v2_07_src.zip) файли з базовою розміткою, готовими стилями та підключеними файлами скриптів для кожного завдання. Скопіюй їх собі у проект.
 
 Файл `gallery-items.js` містить масив `galleryItems`, який містить об'єкти з інформацією про зображення: маленьке (прев`ю), оригінальне (велике) і опис. Ми вже підключили його до кожного з JS-файлів проекту.
 
