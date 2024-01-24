@@ -12,6 +12,14 @@ Final JS Fundamentals homework
 
 Створи галерею з можливістю кліку по її елементах і перегляду повнорозмірного зображення у модальному вікні. Подивися демо відео роботи галереї.
 
+<details>
+
+<summary>Приклад виконяння</summary>
+
+![js-final-project-video-task-1](https://github.com/oleksandr-romashko/goit-js-finalproject/assets/106557671/25687640-912d-4ae9-9c77-d794c321378c)
+
+</details>
+
 Виконуй це завдання у файлах `01-gallery.html` і `01-gallery.js`. Розбий його на декілька підзавдань:
 
 1. Створення і рендер розмітки на підставі масиву даних `galleryItems` і наданого шаблону елемента галереї.
@@ -51,7 +59,13 @@ Final JS Fundamentals homework
 
 Зроби таку саму галерею як в першому завданні, але використовуючи бібліотеку [SimpleLightbox](https://simplelightbox.com/), яка візьме на себе обробку кліків по зображеннях, відкриття і закриття модального вікна, а також гортання зображень за допомогою клавіатури.
 
+<details>
+  
+<summary>Приклад виконяння</summary>
 
+![js-final-project-video-task-2](https://github.com/oleksandr-romashko/goit-js-finalproject/assets/106557671/68ee671f-c4ea-454a-9cde-ba95fcf4ba68)
+
+</details>
 
 Необхідно трохи змінити розмітку картки галереї, використовуй цей шаблон.
 
