@@ -16,7 +16,7 @@ Final JS Fundamentals homework
 
 <summary>Приклад виконяння</summary>
 
-![js-final-project-video-task-1](https://github.com/oleksandr-romashko/goit-js-finalproject/assets/106557671/25687640-912d-4ae9-9c77-d794c321378c)
+![js-final-project-example-gif-task-1](https://github.com/oleksandr-romashko/goit-js-finalproject/assets/106557671/25687640-912d-4ae9-9c77-d794c321378c)
 
 </details>
 
@@ -63,7 +63,7 @@ Final JS Fundamentals homework
   
 <summary>Приклад виконяння</summary>
 
-![js-final-project-video-task-2](https://github.com/oleksandr-romashko/goit-js-finalproject/assets/106557671/68ee671f-c4ea-454a-9cde-ba95fcf4ba68)
+![js-final-project-example-gif-task-2](https://github.com/oleksandr-romashko/goit-js-finalproject/assets/106557671/68ee671f-c4ea-454a-9cde-ba95fcf4ba68)
 
 </details>
 
