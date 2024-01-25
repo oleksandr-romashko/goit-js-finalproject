@@ -48,11 +48,14 @@
 }
 
 .basicLightbox__placeholder {
+  display: flex;
   max-width: 96%;
+  max-height: 96%;
   transition: transform 0.45s ease;
 }
 
 .modal {
+  max-height: 90%;
   padding: 16px 18px;
   border-radius: 2px;
   cursor: zoom-out;
