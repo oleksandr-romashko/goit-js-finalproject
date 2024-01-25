@@ -34,23 +34,13 @@ function createMarkup(arr) {
  */
 function handleImageClick(event) {
   event.preventDefault();
-  if (event.target === event.currentTarget) {
+  if (event.target.nodeName !== "IMG") {
     return;
   }
   const originalImgSource = event.target.dataset.source;
   const description = event.target.alt;
 
   showModal(originalImgSource, description);
-
-  /**
-   * ! Prevents side effect.
-   * * When modal window showed, focus stays on gallery item element,
-   * * and when `Enter` key is hit, opens a new modal windows above previous one.
-   * * Modal windows have `undefiden` label in the middle of a modal window.
-   * ? Found answer here: https://stackoverflow.com/a/4075072
-   * Alternatively use: event.target.parentNode.blur();
-   */
-  document.activeElement.blur();
 }
 
 /**
