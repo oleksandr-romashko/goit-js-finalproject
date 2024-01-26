@@ -99,8 +99,9 @@
 
 .sl-wrapper .sl-navigation button {
   top: 80px;
+  bottom: 80px;
   width: 32px;
-  height: 80vh;
+  height: calc(80vh - 80px);
   margin-top: auto;
   margin-bottom: auto;
   color: white;
