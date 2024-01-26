@@ -10,7 +10,7 @@ let lightbox = new SimpleLightbox(".gallery a", {
   navText: ["⟨", "⟩"],
   captionsData: "alt",
   captionDelay: 250,
-  closeText: "🞩",
+  closeText: "✕",
   heightRatio: 0.9,
   disableRightClick: true,
   download: "⤓ Download this image",
