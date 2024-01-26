@@ -6,10 +6,16 @@ gallery.insertAdjacentHTML("afterbegin", createMarkup(galleryItems));
 
 let lightbox = new SimpleLightbox(".gallery a", {
   /* options */
-});
-
-lightbox.on("show.simplelightbox", function () {
-  // do something…
+  overlayOpacity: 0.84,
+  navText: ["⟨", "⟩"],
+  captionsData: "alt",
+  captionDelay: 250,
+  closeText: "🞩",
+  heightRatio: 0.9,
+  disableRightClick: true,
+  download: "⤓ Download this image",
+  maxZoom: 4,
+  scrollZoomFactor: 0.15,
 });
 
 lightbox.on("error.simplelightbox", function (error) {
